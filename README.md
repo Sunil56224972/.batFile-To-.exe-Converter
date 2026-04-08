@@ -33,7 +33,7 @@ No Python. No Node.js. No third-party software. Just a `.bat` file and your targ
 ---
 Terminal Overview 
 <div align="center">
-  <img src="terminal-demo.svg" alt="BAT2EXE Terminal Demo" />
+  <img src="assets/terminal-demo.svg" alt="BAT2EXE Terminal Demo" />
 </div>
 
 ##
